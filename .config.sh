@@ -5,6 +5,9 @@
 # This file should be edited only ones just before the installation of any
 # service is done.  After the installation of the searx service a copy of this
 # file is placed into the $SEARX_SRC of the instance, e.g.::
+#
+#     /usr/local/searx/searx-src/.config.sh
+#
 # .. hint::
 #
 #    Before you change a value here, You have to fully uninstall any previous
